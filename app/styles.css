@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  /* margin-left: 0px; */
+}
+.input {
+  width: 40%;
+}
+.diagram-note {
+  background-color: rgba(66, 180, 21, 0.7);
+  color: White;
+  border-radius: 5px;
+  font-family: Arial;
+  font-size: 12px;
+  padding: 5px;
+  min-height: 16px;
+  width: 100px;
+  text-align: center;
+}
+#bmpnViwer {
+  margin-top: 50px;
+  height: 500px;
+}
+.errorMsg {
+  color: red;
+}
